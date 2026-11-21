@@ -1,0 +1,7 @@
+# Code::Blocks build output and local files
+bin/
+obj/
+*.o
+*.exe
+*.depend
+*.layout
